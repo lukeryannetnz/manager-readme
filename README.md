@@ -16,7 +16,7 @@ I value autonomy and work to foster an environment that supports it. Wherever po
 
 I try to be vulnerable as I've discovered that it's a superpower to overcoming fear and building connection. This means I talk about things like failure, mental health and being uncomfortable.
 
-I value constructive feedback, even if it's raw. If you think I could improve, please tell me! 
+I value constructive feedback, even if it's raw. If you think I could improve, please tell me! I will endeavour to give you performance feedback in a continuous manner.
 ## Communicating with me
 
 I schedule reading email, generally in the morning and the afternoon. If you want me urgently, a DM on slack is better.
