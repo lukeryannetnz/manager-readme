@@ -5,7 +5,9 @@
 I'm a developer who likes writing documentation. I also like to read the manual to learn how things work (before I take them apart). Humans, specifically managers are complex systems which you can't (legally) take apart so this is my light-hearted attempt to make interactions with me easier.
 ## My role
 
-Caveat: I'm new here so I'm still figuring this out. My two objectives are to recruit a talented* engineering team and retain them.  Two of the primary ways I do this are by sharing information that provides context and giving candid feedback.
+Caveat: I'm new here so I'm still figuring this out. 
+
+My two objectives are to recruit a talented* engineering team and retain them.  Two of the primary ways I do this are by sharing information that provides context and giving candid feedback.
 
 *where talented means able to rapidly create customer value, ship and operate a high quality product.
 ## What do I value most?
