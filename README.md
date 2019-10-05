@@ -2,14 +2,12 @@
 
 ## Motivation for this document
 
-I'm a developer who likes writing documentation. I also like to read the manual to learn how things work (before I take them apart). Humans, specifically managers are complex systems which you can't (legally) take apart so this is my light-hearted attempt to make interactions with me easier.
+I'm a developer at heart who likes writing documentation. I also like to read the manual to learn how things work (before I take them apart). Humans, specifically managers are complex systems which you can't (legally) take apart so this is my light-hearted attempt to make interactions with me easier.
 ## My role
 
 Caveat: I'm new here so I'm still figuring this out. 
 
-My two objectives are to recruit a talented* engineering team and retain them.  Two of the primary ways I do this are by sharing information that provides context and giving candid feedback.
-
-*where talented means able to rapidly create customer value, ship and operate a high quality product.
+My two objectives are to recruit and retain an engineering team that can rapidly create customer value, ship and operate a high quality product.  The primary ways I do this are by sharing information that provides context and giving candid feedback.
 ## What do I value most?
 
 I value autonomy and work to foster an environment that supports it. Wherever possible I will seek to challenge, question and push you; not instruct or do it for you. If you directly ask for my opinion or advice, of course I'll be forthcoming.
