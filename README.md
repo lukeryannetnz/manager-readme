@@ -7,12 +7,12 @@ I'm a developer at heart who likes writing documentation. I also like to read th
 
 Caveat: I'm new here so I'm still figuring this out. 
 
-My two objectives are to recruit and retain an engineering team that can rapidly create customer value, ship and operate a high quality product.  The primary ways I do this are by sharing information that provides context and giving candid feedback.
+My two objectives are to recruit and retain a talented engineering team. One which can rapidly create customer value, ship and operate a high quality product.  The primary ways I do this are by sharing information that provides context and giving candid feedback.
 ## What do I value most?
 
 I value autonomy and work to foster an environment that supports it. Wherever possible I will seek to challenge, question and push you; not instruct or do it for you. If you directly ask for my opinion or advice, of course I'll be forthcoming.
 
-I try to be vulnerable as I've discovered that it's a superpower to overcoming fear and building connection. This means I talk about things like failure, mental health and being uncomfortable.
+I try to be vulnerable, as I've discovered that it's a superpower in service of overcoming fear and building connection. This means I talk about things like failure, mental health, and being uncomfortable.
 
 I value constructive feedback, even if it's raw. If you think I could improve, please tell me! I will give you performance feedback in a continuous manner.
 ## Communicating with me
@@ -22,7 +22,7 @@ I schedule reading email, generally in the morning and the afternoon. If you wan
 I use my calendar to organize my life. My calendar is publicly visible so that it's clear what I'm spending time on. If you report to me and want to talk to me urgently, I will make time for you if you DM me.
 ## 1:1s
 
-I like to have weekly 1:1's with my direct team members where you set the agenda. These are super important to me. They aren't status reports unless you want to talk about status. They are a time for us to discuss ideas, share information and context, talk about your career, give feedback and anything else that will help you to grow, learn and be successful.
+I like to have weekly 1:1's with my direct team members where you set the agenda. These are super important to me. They aren't status reports unless you want to talk about status. They are a time for us to discuss ideas, share information and context, talk about your career, give feedback, and anything else that will help you to grow, learn and be successful.
 ## Other potentially relevant things
 
 I don't drink alcohol but enjoy being invited to bars and being around people who do.
