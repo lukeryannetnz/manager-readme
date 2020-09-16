@@ -27,4 +27,4 @@ I like to have weekly 1:1's with my direct team members where you set the agenda
 
 I don't drink alcohol but enjoy being invited to bars and being around people who do.
 
-I am the father of twin boys Joshua and Harrison, born Jan 2019.
+I am the father of Joshua and Harrison (twins), born Jan 2019 and Lucy born April 2020.
