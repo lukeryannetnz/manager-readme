@@ -15,6 +15,9 @@ I value autonomy and work to foster an environment that supports it. Wherever po
 I try to be vulnerable, as I've discovered that it's a superpower in service of overcoming fear and building connection. This means I talk about things like failure, mental health, and being uncomfortable.
 
 I value constructive feedback, even if it's raw. If you think I could improve, please tell me! I will give you performance feedback in a continuous manner.
+
+I appreciate detail and work by diving deep, then drawing back for perspective. I've been told that curiosity is my superpower I tend to ask lots of questions and seek to understand how things work one layer deeper than what might feel necessary. 
+
 ## Communicating with me
 
 I schedule reading email, generally in the morning and the afternoon. If you want me urgently, a DM on slack is better.
