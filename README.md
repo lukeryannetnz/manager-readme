@@ -22,7 +22,7 @@ I appreciate detail and work by diving deep, then drawing back for perspective. 
 
 I schedule reading email, generally in the morning and the afternoon. If you want me urgently, a DM on slack is better.
 
-I prefer slack DMs if you need to connect with me.  LPlesee reach out. 
+I prefer slack DMs if you need to connect with me.  Please reach out. 
 
 I use my calendar to organize my life. My calendar is publicly visible so that it's clear what I'm spending time on. If you need to talk to me urgently, I will make time for you if you DM me.
 ### 1:1s
