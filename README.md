@@ -22,12 +22,17 @@ I appreciate detail and work by diving deep, then drawing back for perspective. 
 
 I schedule reading email, generally in the morning and the afternoon. If you want me urgently, a DM on slack is better.
 
-I use my calendar to organize my life. My calendar is publicly visible so that it's clear what I'm spending time on. If you report to me and want to talk to me urgently, I will make time for you if you DM me.
-## 1:1s
+I prefer slack DMs if you need to connect with me.  LPlesee reach out. 
 
-I like to have weekly 1:1's with my direct team members where you set the agenda. These are super important to me. They aren't status reports unless you want to talk about status. They are a time for us to discuss ideas, share information and context, talk about your career, give feedback, and anything else that will help you to grow, learn and be successful.
-## Other potentially relevant things
+I use my calendar to organize my life. My calendar is publicly visible so that it's clear what I'm spending time on. If you need to talk to me urgently, I will make time for you if you DM me.
+### 1:1s
 
-I don't drink alcohol but enjoy being invited to bars and being around people who do.
+I like to have weekly 1:1's with my direct team members where you set the agenda. These are super important to me. They aren't status reports unless you want to talk about status. They are a time for us to discuss ideas, share information and context, talk about your career, give feedback, and anything else that will help you to grow, learn and be successful. I valaue regular connection with others too but find I need to manage my time carefully. If you think a regular 1:1 with me would be beneficial, please reach out on slack. 
 
-I am the father of Joshua and Harrison (twins), born Jan 2019 and Lucy born April 2020.
+## Some personal things
+
+My family are a big part of my life. I am the father of Joshua and Harrison (twins), born Jan 2019 and Lucy born April 2020.
+
+I love running, I aspire to run a marathon before 2035.
+
+I'm an amateur cyclist, I have a road bike that doesn't get much use currently. I mountain bike with the fam a lot. 
