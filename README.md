@@ -29,6 +29,9 @@ I use my calendar to organize my life. My calendar is publicly visible so that i
 
 I like to have weekly 1:1's with my direct team members where you set the agenda. These are super important to me. They aren't status reports unless you want to talk about status. They are a time for us to discuss ideas, share information and context, talk about your career, give feedback, and anything else that will help you to grow, learn and be successful. I valaue regular connection with others too but find I need to manage my time carefully. If you think a regular 1:1 with me would be beneficial, please reach out on slack. 
 
+### Regular emails or blog posts
+I value transparency so try to write regular emails or blog posts describing what I'm doing and things I see across the organisation. You don't have to read these but some people find them helpful for discovering things outside of their immediate context. 
+
 ## Some personal things
 
 My family are a big part of my life. I am the father of Joshua and Harrison (twins), born Jan 2019 and Lucy born April 2020.
